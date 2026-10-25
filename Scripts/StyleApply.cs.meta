@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 59a4f8ad0a00fd342bdebf22d192c0b1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zero: {fileID: 8893786113882650503, guid: 6d4da88d9b2c62148b8f35b8000f8b59, type: 3}
+  - one: {fileID: 7420245570216201661, guid: b12b646adf66477478a62bed81138d4b, type: 3}
+  - two: {fileID: 900609254561404010, guid: b12b646adf66477478a62bed81138d4b, type: 3}
+  - three: {fileID: 2832882676589439661, guid: b12b646adf66477478a62bed81138d4b, type: 3}
+  - four: {fileID: -9014783701062902588, guid: b12b646adf66477478a62bed81138d4b, type: 3}
+  - five: {fileID: 7827063707902515429, guid: b12b646adf66477478a62bed81138d4b, type: 3}
+  - six: {fileID: -6083572971586933622, guid: dcc3d81f6b4b42645b37c1321387d67f, type: 3}
+  - seven: {fileID: -3238330316470345026, guid: dcc3d81f6b4b42645b37c1321387d67f,
+      type: 3}
+  - eight: {fileID: 8219261131837288606, guid: dcc3d81f6b4b42645b37c1321387d67f, type: 3}
+  - nine: {fileID: 2458181323219329255, guid: dcc3d81f6b4b42645b37c1321387d67f, type: 3}
+  - ten: {fileID: 2089328087946487168, guid: dcc3d81f6b4b42645b37c1321387d67f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
